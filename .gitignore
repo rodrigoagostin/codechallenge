@@ -1,0 +1,7 @@
+/CodeChallenge-client/node_modules
+/CodeChallenge-client/dist
+/CodeChallenge-client/.tmp
+/CodeChallenge-client/.sass-cache
+/CodeChallenge-client/bower_components
+/CodeChallenge-server/target
+.DS_Store
